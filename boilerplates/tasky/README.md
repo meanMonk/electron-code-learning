@@ -9,3 +9,12 @@ Start dev server:
 In a new terminal window:
 
 `npm run electron`
+
+
+// how to add the tray icon
+
+```
+  new Tray();
+  
+
+```
